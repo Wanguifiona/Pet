@@ -12,13 +12,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PetAdoption">
         <activity
+            android:name=".ui.SavedPetListActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.PetsListActivity"
-            android:exported="false">
-        </activity>
+            android:exported="false"></activity>
         <activity
             android:name=".ui.PetDetailActivity"
-            android:exported="false">
-        </activity>
+            android:exported="false"></activity>
         <activity
             android:name=".ui.MainActivity"
             android:exported="true"

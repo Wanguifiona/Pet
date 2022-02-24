@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "612812578461",
+    "project_id": "petadoption-36c69",
+    "storage_bucket": "petadoption-36c69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612812578461:android:a7f155699dfff1f5223e74",
+        "android_client_info": {
+          "package_name": "com.moringaschool.petadoption"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612812578461-el19i536g32rg6e3t08lcsqq7dlrrq0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.moringaschool.petadoption",
+            "certificate_hash": "86fe433f4af3d3708350cdbc0709f383ea2bf05e"
+          }
+        },
+        {
+          "client_id": "612812578461-e1kauf10qu7j0771klpclp9gorqkb6hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwvJRraYzLYZGzTHOlRJWRXgFtvw5gu-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612812578461-e1kauf10qu7j0771klpclp9gorqkb6hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

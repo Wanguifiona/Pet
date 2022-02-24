@@ -20,16 +20,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:textStyle="italic" />
-    <EditText
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/petsEditText"
-        android:background="@color/white"
-        android:layout_above="@+id/petButton"
-        android:layout_marginBottom="10dp"
-        android:padding="5dp"
-        android:hint="Enter Your Location"
-        android:layout_centerHorizontal="true"/>
+
     <Button
         android:id="@+id/petButton"
         android:layout_width="wrap_content"
